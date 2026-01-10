@@ -1,0 +1,11 @@
+name: add
+
+inputs:
+  - name: input_num
+    type: num
+    required: true
+
+outputs:
+  - name: sum
+    type: num
+    required: true
